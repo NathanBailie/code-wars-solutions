@@ -1,6 +1,6 @@
 # CodeWars solutions
 
-[![CodeWars Profile](https://www.codewars.com/users/Nathan_Bailie/badges/large)](https://www.codewars.com/users/Nathan_Bailie)
+[![CodeWars Profile](https://www.codewars.com/users/Anton_Nefedov/badges/large)](https://www.codewars.com/users/Anton_Nefedov)
 
 ## 📌 Description
 
